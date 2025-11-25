@@ -66,5 +66,5 @@ The labels follow the [MITRE ATT&CK](https://attack.mitre.org/) framework.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/REPO-NAME.git](https://github.com/YOUR-USERNAME/REPO-NAME.git)
-   cd REPO-NAME
+   git clone [https://github.com/SteLib/ML-ssh-session-classifier.git](https://github.com/SteLib/ML-ssh-session-classifier.git)
+
