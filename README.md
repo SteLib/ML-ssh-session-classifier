@@ -1,5 +1,15 @@
 # 🛡️ SSH Shell Attack Analysis - ML4N Project
 
+##👥 Team
+Stefano Liberati - [github ID]
+
+[First Name Last Name] - [github ID]
+
+[First Name Last Name] - [github ID]
+
+[First Name Last Name] - [github ID]
+
+
 ## 📖 Project Description
 
 This repository contains the code and analysis for the group project of the **Machine Learning for Networking (ML4N)** course.
