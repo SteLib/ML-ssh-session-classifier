@@ -1,7 +1,7 @@
 # 🛡️ SSH Shell Attack Analysis - ML4N Project
 
 ##👥 Team
-Stefano Liberati - [github ID]
+Stefano Liberati - SteLib
 
 Marco Di Bernardo - MarcoDibes
 
