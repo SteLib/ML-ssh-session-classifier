@@ -45,7 +45,7 @@ Grouping attack sessions to find behavioral patterns without using labels.
 ### 4. Language Models Exploration (Deep Learning)
 Experimentation with advanced language models and Neural Networks.
 * **Approach:** Use of Embeddings and Transfer Learning.
-* **Models:** Comparison between **Doc2Vec** (Word2Vec for documents) and **BERT** (Pre-trained Transformer).
+* **Models:** **BERT** (Pre-trained Transformer).
 * **Fine-Tuning:** Adaptation of the last dense layer of the neural network for the supervised intent classification task.
 
 ---
@@ -65,7 +65,7 @@ The labels follow the [MITRE ATT&CK](https://attack.mitre.org/) framework.
 
 * **Language:** Python 3.x
 * **Data Science:** `pandas`, `numpy`, `scikit-learn`
-* **NLP & Deep Learning:** * `nltk`, `gensim` (Doc2Vec)
+* **NLP & Deep Learning:** * `nltk`, 
     * `transformers` (Hugging Face - BERT)
     * `torch` (PyTorch) or `tensorflow`
 * **Visualization:** `matplotlib`, `seaborn`, `wordcloud`
