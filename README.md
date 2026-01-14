@@ -1,10 +1,6 @@
 # 🛡️ SSH Shell Attack Analysis - ML4N Project
 
-<<<<<<< HEAD
-## 👥 Team
-=======
 ##👥 Team
->>>>>>> branch-stefano
 
 Stefano Liberati - SteLib
 
