@@ -1,4 +1,4 @@
-# 🛡️ SSH Shell Attack Analysis - ML4N Project
+# 🛡️ SSH Shell Attack Classifier- ML4N Project
 
 ##👥 Team
 
@@ -6,9 +6,9 @@ Stefano Liberati - SteLib
 
 Marco Di Bernardo - MarcoDibes
 
-[First Name Last Name] - [github ID]
+Davide Rotondo - Davide Rotondo
 
-[First Name Last Name] - [github ID]
+Michele Pio Lasalvia - michelepiolasalvia
 
 
 ## 📖 Project Description
@@ -66,15 +66,9 @@ The labels follow the [MITRE ATT&CK](https://attack.mitre.org/) framework.
 
 * **Language:** Python 3.x
 * **Data Science:** `pandas`, `numpy`, `scikit-learn`
-<<<<<<< HEAD
-* **NLP & Deep Learning:** * `nltk`,
-=======
-* **NLP & Deep Learning:** * `nltk`, 
->>>>>>> cfed31fec432c36d500274f373f03499cb9e062d
-    * `transformers` (Hugging Face - BERT)
-    * `torch` (PyTorch) or `tensorflow`
+* **NLP & Deep Learning:** `nltk`, `transformers` (Hugging Face - BERT), `torch` (PyTorch) or `tensorflow`
 * **Visualization:** `matplotlib`, `seaborn`, `wordcloud`
-
+  
 ---
 
 ## 🚀 How to Run
