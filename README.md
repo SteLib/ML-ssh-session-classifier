@@ -1,4 +1,4 @@
-# 🛡️ SSH Shell Attack Classifier- ML4N Project
+# 🛡️ SSH Shell Attack Classifier - ML4N Project
 
 ##👥 Team
 
